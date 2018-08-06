@@ -221,7 +221,7 @@
 {
 	#switch {"%0"}
 	{
-		#case {"{?i}{czarn|ciemnoniebiesk|dlug|grub}{ej|a|im|ym|iego|ego|y} {brazow|wask|repliczn|matow}{ej|a|im|ym|ego|y} {replik|mlot|sztylet|gal(ae|)z}{i|a|iem|em|u|}"}
+		#case {"{?i}{czarn|ciemnoniebiesk|dlug|grub}{ej|a|im|ym|iego|ego|y} {was|brazow|wask|repliczn|matow|zdobion}{ej|a|im|ym|ego|y} {miecz|kord|replik|mlot|sztylet|gal(ae|)z}{i|a|iem|em|u|}"}
 		{
 			#return <afa>%0<099>
 		};

@@ -9,7 +9,7 @@
 	#line log log.log {[$hour_format] <afa>%1 %2 do %3:<bcf>%4<099>};
 	#unvariable hour_format;
 	#unvariable log_day_format;
-		#line GAG;
+	#line GAG
 }
 {4}
 
@@ -31,7 +31,7 @@
 	#line log log.log {[$hour_format] <afa>%1 %2 do %3:<bcf>%4<099>};
 	#unvariable hour_format;
 	#unvariable log_day_format;
-		#line GAG;
+	#line GAG
 }
 {5}
 
@@ -44,7 +44,7 @@
 	#line log log.log {[$hour_format] <afa>%1 %2%3:<bcf>%4<099>};
 	#unvariable hour_format;
 	#unvariable log_day_format;
-		#line GAG;
+	#line GAG
 }
 {5}
 
@@ -57,7 +57,7 @@
 	#line log log.log {[$hour_format] <fad>W twym umysle dzwieczy jego glos:<bff> %1<099>};
 	#unvariable hour_format;
 	#unvariable log_day_format;
-		#line GAG;
+	#line GAG
 }
 {5}
 
@@ -70,7 +70,7 @@
 	#line log log.log {[$hour_format] <afa>%1 do %2:<bff> %3<099>};
 	#unvariable hour_format;
 	#unvariable log_day_format;
-		#line GAG;
+	#line GAG
 }
 {5}
 
