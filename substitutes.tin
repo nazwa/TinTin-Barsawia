@@ -6,7 +6,6 @@
 #SUBSTITUTE       {\b{\d+} zl\b}  {<ffa>%0<099>}  {5}
 #SUBSTITUTE       {^  Nie masz nic przy sobie.$}          {<afa>Nie masz nic przy sobie.<088>}           {5}
 #SUBSTITUTE       {^%1 {cwaluje|galopuje|nadjezdza} na %3 {na|ze|z} %5.$}                                   {%1 %2 %3 %4 <eca>%5<099>.}  {5}
-#SUBSTITUTE       {^Brama jest zamknieta.$}     {<faa>%0<099>}  {5}
 #SUBSTITUTE       {^Brama zostaje otwarta.$}      {<afa>%0<099>}  {5}
 #SUBSTITUTE       {^Chwytasz %1 i umaczasz w nim usta, pijac zen lyczek.$}                                    {<bcf>%0<099>}  {5}
 #SUBSTITUTE       {^Ciagniesz za sznurek wystajacy z wnetrza dzwonka i machasz nim na obie strony, wywolujac tym samym rozchodzace sie na wszystkie strony dzwonienie.$}                                                                                                                                  {<afa>%0<099>}  {5}

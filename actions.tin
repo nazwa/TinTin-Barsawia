@@ -48,6 +48,20 @@
 }
 {5}
 
+#ACTION {Brama jest zamknieta}
+{
+	#showme {NO WAY}
+	#line gag;
+	#echo {<fab>%0<099>};
+	#if {$map_state == 1}
+	{
+		#showme {UNDO!!!!}
+		#map undo
+	};
+	#undelay %*
+}
+{5}
+
 #ACTION {^.: %1 :.$}
 {
 	#variable last_room {%1};

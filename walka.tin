@@ -95,7 +95,7 @@
 			#variable komenda /wez;
 			#echo {<afa>Zabiles <cfa>%1 <ffa>%2.<faa>[$komenda]<099>}
 		};
-		#case {"{?i}{zajaca|lisa|szopa|borsuka|rysia|sarne|dzika}"}
+		#case {"{?i}{zajaca|lisa|szopa|borsuka|rysia|sarne|dzika|triplikant}"}
 		{
 			#variable komenda /wyt;
 			#echo {<afa>Zabiles <cfa>%1 <ffa>%2.<faa>[$komenda]<099>}
